@@ -11,5 +11,5 @@ Desafio realizado para vaga de dev front-end react
 2 - cd table-users </br>
 3 - yarn</br>
 4 - code .</br>
-6 - em outro terminal rode yarn json-server --watch server.json para iniciar o json-server</br>
-7 - no terminal code yarn start</br>
+6 - rode o comando yarn json-server --watch server.json para iniciar o json-server</br>
+7 - no terminal rode yarn start</br>
